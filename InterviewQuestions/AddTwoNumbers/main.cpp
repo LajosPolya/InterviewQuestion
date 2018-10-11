@@ -15,65 +15,25 @@ ListNode * addTwoNumbers(ListNode * l1, ListNode * l2) {
 	ListNode * p2 = l2;
 	ListNode * ans;
 	ListNode ** a = &ans;
-	ListNode * prev = nullptr;
 	int sum;
 	
-	ans = new ListNode(0);
+	(*a) = new ListNode(0);
 
 	int q = 0;
-	while (p1 != nullptr || p2 != nullptr) {
+	while (p1 != nullptr || p2 != nullptr || q) {
 		int r = 0;
-		if (p1 != nullptr && p2 != nullptr) {
-			sum = p1->val + p2->val + ans->val;
-			r = sum % 10;
-			q = sum / 10;
-			
-			ans->val = r;
+		sum = ((p1) ? p1->val : 0) + ((p2) ? p2->val : 0) + q;
+		r = sum % 10;
+		q = sum / 10;
 
-			p1 = p1->next;
-			p2 = p2->next;
-		}
-		else if (p1 != nullptr) {
-			if (ans->val == 0) {
-				ans->val = p1->val;
-				q = 0;
-			}
-			else {
-				sum = p1->val + ans->val;
-				r = sum % 10;
-				q = sum / 10;
+		(*a)->next = new ListNode(r);
+		a = &(*a)->next;
 
-				ans->val = r;
-			}
-			p1 = p1->next;
-		}
-		else if (p2 != nullptr) {
-			if (ans->val == 0) {
-				ans->val = p2->val;
-				q = 0;
-			}
-			else {
-				sum = p2->val + ans->val;
-				r = sum % 10;
-				q = sum / 10;
-
-				ans->val = r;
-			}
-			
-			p2 = p2->next;
-		}
-
-		prev = ans;
-		ans->next = new ListNode(q);
-		ans = ans->next;
-	}
-
-	if (ans->val == 0) {
-		delete prev->next;
-		prev->next = nullptr;
+		p1 = (p1) ? p1->next : nullptr;
+		p2 = (p2) ? p2->next : nullptr;
 	}
 	
-	return *a;
+	return ans->next;
 }
 
 int main() {
