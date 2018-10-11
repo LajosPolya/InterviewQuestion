@@ -14,12 +14,11 @@ ListNode * addTwoNumbers(ListNode * l1, ListNode * l2) {
 	ListNode * p1 = l1;
 	ListNode * p2 = l2;
 	ListNode * ans;
-	ListNode * a;
+	ListNode ** a = &ans;
 	ListNode * prev = nullptr;
 	int sum;
 	
 	ans = new ListNode(0);
-	a = ans;
 
 	int q = 0;
 	while (p1 != nullptr || p2 != nullptr) {
@@ -74,7 +73,7 @@ ListNode * addTwoNumbers(ListNode * l1, ListNode * l2) {
 		prev->next = nullptr;
 	}
 	
-	return a;
+	return *a;
 }
 
 int main() {
