@@ -1,5 +1,6 @@
 #include <vector>
 #include <iostream>
+#include <algorithm>
 
 using namespace std;
 
@@ -18,31 +19,24 @@ int main() {
 }
 
 double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-	long totalLen = nums1.size() + nums2.size();
-	long first = -1;
-	long insert = 0;
+	vector<int> num;
 
-	if (nums1[nums1.size() - 1] < nums2[0]) {
-		if (totalLen % 2 == 1) {
-			if (totalLen / 2 < nums1.size()) {
-				return nums1[totalLen / 2];
-			}
-			else {
-				return nums2[nums1.size() - (totalLen / 2)];
-			}
-		}
+	for (int i = 0; i < nums1.size(); i++) {
+		num.push_back(nums1[i]);
 	}
-	else if (nums2[nums2.size() - 1] < nums1[0]) {
-		if (totalLen % 2 == 1) {
-			if (totalLen / 2 < nums2.size()) {
-				return nums2[totalLen / 2];
-			}
-			else {
-				return nums1[nums2.size() - (totalLen / 2)];
-			}
-		}
+
+	for (int i = 0; i < nums2.size(); i++) {
+		num.push_back(nums2[i]);
+	}
+
+	sort(num.begin(), num.end(), [](int num1, int num2) {
+		return (num1 < num2);
+	});
+
+	if (num.size() % 2 == 1) {
+		return (int)num[num.size() / 2];
 	}
 	else {
-
+		return ((double)num[num.size() / 2] + num[num.size() / 2 + 1]) / 2.0;
 	}
 }
