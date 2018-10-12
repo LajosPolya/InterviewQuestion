@@ -1,4 +1,4 @@
 ﻿  main.cpp
-c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\longestsubstrwithoutrepeat\main.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\longestsubstrwithoutrepeat\main.cpp(30): warning C4018: '<': signed/unsigned mismatch
   LongestSubstrWithoutRepeat.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\LongestSubstrWithoutRepeat.exe
   LongestSubstrWithoutRepeat.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\LongestSubstrWithoutRepeat.pdb (Partial PDB)

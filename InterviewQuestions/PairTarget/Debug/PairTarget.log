@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\pairtarget\main.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\pairtarget\main.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\pairtarget\main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\pairtarget\main.cpp(23): warning C4715: 'twoSum1': not all control paths return a value
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\pairtarget\main.cpp(38): warning C4715: 'twoSum': not all control paths return a value
+  PairTarget.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\PairTarget.exe
+  PairTarget.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\PairTarget.pdb (Partial PDB)

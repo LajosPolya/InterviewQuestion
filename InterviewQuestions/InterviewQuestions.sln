@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddTwoNumbers", "AddTwoNumb
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestSubstrWithoutRepeat", "LongestSubstrWithoutRepeat\LongestSubstrWithoutRepeat.vcxproj", "{1E9B48D2-4105-4CC2-B81C-A91B6C9F0AC1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.vcxproj", "{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{1E9B48D2-4105-4CC2-B81C-A91B6C9F0AC1}.Release|x64.Build.0 = Release|x64
 		{1E9B48D2-4105-4CC2-B81C-A91B6C9F0AC1}.Release|x86.ActiveCfg = Release|Win32
 		{1E9B48D2-4105-4CC2-B81C-A91B6C9F0AC1}.Release|x86.Build.0 = Release|Win32
+		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Debug|x64.ActiveCfg = Debug|x64
+		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Debug|x64.Build.0 = Debug|x64
+		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Debug|x86.Build.0 = Debug|Win32
+		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Release|x64.ActiveCfg = Release|x64
+		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Release|x64.Build.0 = Release|x64
+		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Release|x86.ActiveCfg = Release|Win32
+		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

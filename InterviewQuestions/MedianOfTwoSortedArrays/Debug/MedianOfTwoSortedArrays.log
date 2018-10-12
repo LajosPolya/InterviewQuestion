@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\medianoftwosortedarrays\main.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\medianoftwosortedarrays\main.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\medianoftwosortedarrays\main.cpp(45): warning C4715: 'findMedianSortedArrays': not all control paths return a value
+  MedianOfTwoSortedArrays.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\MedianOfTwoSortedArrays.exe
+  MedianOfTwoSortedArrays.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\MedianOfTwoSortedArrays.pdb (Partial PDB)
