@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\zigzag\main.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  ZigZag.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\ZigZag.exe
+  ZigZag.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\ZigZag.pdb (Partial PDB)
