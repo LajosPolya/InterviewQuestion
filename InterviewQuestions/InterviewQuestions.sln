@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestSubstrWithoutRepeat"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.vcxproj", "{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestPalindromicSubstr", "LongestPalindromicSubstr\LongestPalindromicSubstr.vcxproj", "{E3AFD7F5-B4C3-4466-98EC-9126B250170A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Release|x64.Build.0 = Release|x64
 		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Release|x86.ActiveCfg = Release|Win32
 		{07C48C56-B767-498F-AFDE-4DA6AFEA38F6}.Release|x86.Build.0 = Release|Win32
+		{E3AFD7F5-B4C3-4466-98EC-9126B250170A}.Debug|x64.ActiveCfg = Debug|x64
+		{E3AFD7F5-B4C3-4466-98EC-9126B250170A}.Debug|x64.Build.0 = Debug|x64
+		{E3AFD7F5-B4C3-4466-98EC-9126B250170A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3AFD7F5-B4C3-4466-98EC-9126B250170A}.Debug|x86.Build.0 = Debug|Win32
+		{E3AFD7F5-B4C3-4466-98EC-9126B250170A}.Release|x64.ActiveCfg = Release|x64
+		{E3AFD7F5-B4C3-4466-98EC-9126B250170A}.Release|x64.Build.0 = Release|x64
+		{E3AFD7F5-B4C3-4466-98EC-9126B250170A}.Release|x86.ActiveCfg = Release|Win32
+		{E3AFD7F5-B4C3-4466-98EC-9126B250170A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
