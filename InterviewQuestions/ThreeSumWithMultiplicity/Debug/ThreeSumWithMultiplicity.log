@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\threesumwithmultiplicity\main.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\threesumwithmultiplicity\main.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\threesumwithmultiplicity\main.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  ThreeSumWithMultiplicity.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\ThreeSumWithMultiplicity.exe
+  ThreeSumWithMultiplicity.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\ThreeSumWithMultiplicity.pdb (Partial PDB)

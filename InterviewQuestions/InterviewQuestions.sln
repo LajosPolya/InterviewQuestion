@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortArrayByParity2", "SortA
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumAddToMakeParenValid", "MinimumAddToMakeParenValid\MinimumAddToMakeParenValid.vcxproj", "{5D1651AC-A91C-467B-A633-EDE28C05F240}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreeSumWithMultiplicity", "ThreeSumWithMultiplicity\ThreeSumWithMultiplicity.vcxproj", "{74DF3730-0BF6-4608-B376-AAECEF35D854}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{5D1651AC-A91C-467B-A633-EDE28C05F240}.Release|x64.Build.0 = Release|x64
 		{5D1651AC-A91C-467B-A633-EDE28C05F240}.Release|x86.ActiveCfg = Release|Win32
 		{5D1651AC-A91C-467B-A633-EDE28C05F240}.Release|x86.Build.0 = Release|Win32
+		{74DF3730-0BF6-4608-B376-AAECEF35D854}.Debug|x64.ActiveCfg = Debug|x64
+		{74DF3730-0BF6-4608-B376-AAECEF35D854}.Debug|x64.Build.0 = Debug|x64
+		{74DF3730-0BF6-4608-B376-AAECEF35D854}.Debug|x86.ActiveCfg = Debug|Win32
+		{74DF3730-0BF6-4608-B376-AAECEF35D854}.Debug|x86.Build.0 = Debug|Win32
+		{74DF3730-0BF6-4608-B376-AAECEF35D854}.Release|x64.ActiveCfg = Release|x64
+		{74DF3730-0BF6-4608-B376-AAECEF35D854}.Release|x64.Build.0 = Release|x64
+		{74DF3730-0BF6-4608-B376-AAECEF35D854}.Release|x86.ActiveCfg = Release|Win32
+		{74DF3730-0BF6-4608-B376-AAECEF35D854}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
