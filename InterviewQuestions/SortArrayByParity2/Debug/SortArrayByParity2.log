@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\sortarraybyparity2\main.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\sortarraybyparity2\main.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\sortarraybyparity2\main.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  SortArrayByParity2.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\SortArrayByParity2.exe
+  SortArrayByParity2.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\SortArrayByParity2.pdb (Partial PDB)
