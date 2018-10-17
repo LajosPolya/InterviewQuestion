@@ -1,5 +1,5 @@
 ﻿  main.cpp
 c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\atoi\main.cpp(23): warning C4018: '<': signed/unsigned mismatch
-c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\atoi\main.cpp(77): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\atoi\main.cpp(81): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
   atoi.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\atoi.exe
   atoi.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\atoi.pdb (Partial PDB)
