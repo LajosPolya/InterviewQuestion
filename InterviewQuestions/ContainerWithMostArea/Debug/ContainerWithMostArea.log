@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\containerwithmostarea\main.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  ContainerWithMostArea.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\ContainerWithMostArea.exe
+  ContainerWithMostArea.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\ContainerWithMostArea.pdb (Partial PDB)
