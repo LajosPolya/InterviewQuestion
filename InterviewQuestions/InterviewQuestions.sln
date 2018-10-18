@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntPalindrome", "IntPalindr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContainerWithMostArea", "ContainerWithMostArea\ContainerWithMostArea.vcxproj", "{A3BEFEB3-0DB1-46CD-ADE5-3425EA7D15D6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreeSum", "Three Sum\Three Sum.vcxproj", "{06F6684E-1697-4D88-986A-6816C3CDF723}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{A3BEFEB3-0DB1-46CD-ADE5-3425EA7D15D6}.Release|x64.Build.0 = Release|x64
 		{A3BEFEB3-0DB1-46CD-ADE5-3425EA7D15D6}.Release|x86.ActiveCfg = Release|Win32
 		{A3BEFEB3-0DB1-46CD-ADE5-3425EA7D15D6}.Release|x86.Build.0 = Release|Win32
+		{06F6684E-1697-4D88-986A-6816C3CDF723}.Debug|x64.ActiveCfg = Debug|x64
+		{06F6684E-1697-4D88-986A-6816C3CDF723}.Debug|x64.Build.0 = Debug|x64
+		{06F6684E-1697-4D88-986A-6816C3CDF723}.Debug|x86.ActiveCfg = Debug|Win32
+		{06F6684E-1697-4D88-986A-6816C3CDF723}.Debug|x86.Build.0 = Debug|Win32
+		{06F6684E-1697-4D88-986A-6816C3CDF723}.Release|x64.ActiveCfg = Release|x64
+		{06F6684E-1697-4D88-986A-6816C3CDF723}.Release|x64.Build.0 = Release|x64
+		{06F6684E-1697-4D88-986A-6816C3CDF723}.Release|x86.ActiveCfg = Release|Win32
+		{06F6684E-1697-4D88-986A-6816C3CDF723}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
