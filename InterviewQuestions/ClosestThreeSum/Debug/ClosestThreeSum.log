@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\closestthreesum\main.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\closestthreesum\main.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\closestthreesum\main.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  ClosestThreeSum.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\ClosestThreeSum.exe
+  ClosestThreeSum.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\ClosestThreeSum.pdb (Partial PDB)
