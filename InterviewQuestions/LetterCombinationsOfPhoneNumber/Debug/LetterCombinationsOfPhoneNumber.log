@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\lettercombinationsofphonenumber\main.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\lettercombinationsofphonenumber\main.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\lettercombinationsofphonenumber\main.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\lettercombinationsofphonenumber\main.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\lettercombinationsofphonenumber\main.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\lettercombinationsofphonenumber\main.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\lettercombinationsofphonenumber\main.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\lettercombinationsofphonenumber\main.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  LetterCombinationsOfPhoneNumber.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\LetterCombinationsOfPhoneNumber.exe
+  LetterCombinationsOfPhoneNumber.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\LetterCombinationsOfPhoneNumber.pdb (Partial PDB)
