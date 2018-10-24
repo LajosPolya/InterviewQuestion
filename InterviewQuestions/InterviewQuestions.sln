@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClosestThreeSum", "ClosestT
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LetterCombinationsOfPhoneNumber", "LetterCombinationsOfPhoneNumber\LetterCombinationsOfPhoneNumber.vcxproj", "{065489E6-3B59-4A83-9AB1-5886E6D3B20F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoveNthNodeFromLinkedList", "RemoveNthNodeFromLinkedList\RemoveNthNodeFromLinkedList.vcxproj", "{06CD7BEE-7B18-4E1F-888B-429BBAC0912C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{065489E6-3B59-4A83-9AB1-5886E6D3B20F}.Release|x64.Build.0 = Release|x64
 		{065489E6-3B59-4A83-9AB1-5886E6D3B20F}.Release|x86.ActiveCfg = Release|Win32
 		{065489E6-3B59-4A83-9AB1-5886E6D3B20F}.Release|x86.Build.0 = Release|Win32
+		{06CD7BEE-7B18-4E1F-888B-429BBAC0912C}.Debug|x64.ActiveCfg = Debug|x64
+		{06CD7BEE-7B18-4E1F-888B-429BBAC0912C}.Debug|x64.Build.0 = Debug|x64
+		{06CD7BEE-7B18-4E1F-888B-429BBAC0912C}.Debug|x86.ActiveCfg = Debug|Win32
+		{06CD7BEE-7B18-4E1F-888B-429BBAC0912C}.Debug|x86.Build.0 = Debug|Win32
+		{06CD7BEE-7B18-4E1F-888B-429BBAC0912C}.Release|x64.ActiveCfg = Release|x64
+		{06CD7BEE-7B18-4E1F-888B-429BBAC0912C}.Release|x64.Build.0 = Release|x64
+		{06CD7BEE-7B18-4E1F-888B-429BBAC0912C}.Release|x86.ActiveCfg = Release|Win32
+		{06CD7BEE-7B18-4E1F-888B-429BBAC0912C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
