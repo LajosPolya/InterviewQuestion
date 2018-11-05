@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwapNodesInPairs", "SwapNod
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseNodesInK-Group", "ReverseKGrop\ReverseKGrop.vcxproj", "{53FF09CE-AB60-48CA-90B6-101927CCF3B2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.vcxproj", "{DE6BA7B2-9746-4FEE-A873-F4647793442E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{53FF09CE-AB60-48CA-90B6-101927CCF3B2}.Release|x64.Build.0 = Release|x64
 		{53FF09CE-AB60-48CA-90B6-101927CCF3B2}.Release|x86.ActiveCfg = Release|Win32
 		{53FF09CE-AB60-48CA-90B6-101927CCF3B2}.Release|x86.Build.0 = Release|Win32
+		{DE6BA7B2-9746-4FEE-A873-F4647793442E}.Debug|x64.ActiveCfg = Debug|x64
+		{DE6BA7B2-9746-4FEE-A873-F4647793442E}.Debug|x64.Build.0 = Debug|x64
+		{DE6BA7B2-9746-4FEE-A873-F4647793442E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE6BA7B2-9746-4FEE-A873-F4647793442E}.Debug|x86.Build.0 = Debug|Win32
+		{DE6BA7B2-9746-4FEE-A873-F4647793442E}.Release|x64.ActiveCfg = Release|x64
+		{DE6BA7B2-9746-4FEE-A873-F4647793442E}.Release|x64.Build.0 = Release|x64
+		{DE6BA7B2-9746-4FEE-A873-F4647793442E}.Release|x86.ActiveCfg = Release|Win32
+		{DE6BA7B2-9746-4FEE-A873-F4647793442E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

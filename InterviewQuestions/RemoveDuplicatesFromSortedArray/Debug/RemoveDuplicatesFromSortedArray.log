@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\lajos polya\documents\github\interviewquestion\interviewquestions\removeduplicatesfromsortedarray\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  RemoveDuplicatesFromSortedArray.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\RemoveDuplicatesFromSortedArray.exe
+  RemoveDuplicatesFromSortedArray.vcxproj -> C:\Users\Lajos Polya\Documents\GitHub\InterviewQuestion\InterviewQuestions\Debug\RemoveDuplicatesFromSortedArray.pdb (Partial PDB)
